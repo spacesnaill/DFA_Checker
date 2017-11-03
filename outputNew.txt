@@ -1,0 +1,8 @@
+aaaaabb is rejected.
+ 
+aaaaaaaa is rejected.
+ 
+aaaaaaab is accepted.
+ 
+bbbbbbbbbb is rejected.
+ 
